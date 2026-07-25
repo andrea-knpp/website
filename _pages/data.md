@@ -11,12 +11,7 @@ show_title: false
 
 The United Nations Security Council Resolution Authors (UNSCRA) dataset provides information on the authors of 2,179 draft resolutions officially submitted at the United Nations Security Council. It tracks both sponsors (1990-2023) and lead negotiators (2008-2023) at a document-specific level. The dataset can be accessed [here](https://www.prio.org/journals/jpr/replicationdata).
 
-{% include figure.liquid path="assets/img/Picture1.png" class="img-fluid rounded float-left" width="300" %}
-
-{% include figure.liquid path="assets/img/Picture2.png" class="img-fluid rounded float-left" width="300" %}
-
-{% include figure.liquid path="assets/img/Picture3.png" class="img-fluid rounded float-left" width="300" %}
-
+![UNSCRA dataset](/website/assets/img/Picture1.png)
 
 ### NATO-SGD corpus
 
