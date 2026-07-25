@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Research
+title: 
 permalink: /research/
 nav: true
 nav_order: 2
 ---
 
-## Peer-reviewed journal articles
+### Peer-reviewed journal articles
 
 - Knapp, A. (2026). “Unleashing the elected members: Why states do (not) draft resolutions at the United Nations Security Council”. *Journal of Economic Policy Reform*. [https://doi.org/10.1080/17487870.2026.2671711](https://doi.org/10.1080/17487870.2026.2671711)
 
@@ -25,13 +25,15 @@ resolutions, 1990-2023”. *Journal of Peace Research*, 62(6), 2136-2147. [https
 
 - Knapp, A. (2024). “Speaking of civilians: Automated text analysis of the United Nations’ framing of complex humanitarian emergencies”. *International Interactions*, 50(2), 300-331. [https://doi.org/10.1080/03050629.2024.2318559](https://doi.org/10.1080/03050629.2024.2318559)
 
-## Book chapters
+
+### Book chapters
 
 - Knapp, A. & M. Sguazzini (2025). “Una crisi senza risoluzione: La Siria nell’agenda del Consiglio di Sicurezza delle Nazioni Unite” in *La guerra civile siriana: Dall’insurrezione alla rivoluzione (2011-2024)* (eds. E. Corradi and G. Cama), Carocci.
 
 - Knapp, A. & J. Fritzler (2025). “Soft contestation of the Responsibility to Protect? Assessing Canada and Sweden’s norm diplomacy” in *Norms in Prism. The Evolution of Norms and Norm Clusters in Contemporary Global Politics* (eds. C. Ducci, F. Lucenti, C. Wunderlich and J. Lantis), Springer.
 
-## Public engagement
+
+### Public engagement
 
 - 2026: “A Stability Policing paradigm for NATO: Policing, the forgotten tool against hybrid/irregular warfare maneuvers”. *NATO SP CoE*. [https://www.nspcoe.org/wp-content/uploads/2026/01/03-final-version-14.01.26.pdf](https://www.nspcoe.org/wp-content/uploads/2026/01/03-final-version-14.01.26.pdf)
 
@@ -43,7 +45,8 @@ council/publications/](https://committees.parliament.uk/work/9001/the-uk-at-the-
 - 2023: “Definitions matter: Navigating gray areas in the United Nations’ protection of
 civilians”. *E-IR*. [https://www.e-ir.info/2023/03](https://www.e-ir.info/2023/03)
 
-## Work in progress
+
+### Work in progress
 
 - Carrara, P., A. Knapp, F.N. Moro & L. Pinto. “The politics of banditry: Political change and criminal violence in post-unification Italy (1861-1865)” (invited to R&R).
 
