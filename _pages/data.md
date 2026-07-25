@@ -28,7 +28,7 @@ The United Nations Security Council Resolution Authors (UNSCRA) dataset provides
 
 ### NATO-SGD corpus
 
-The NATO Secretary General Document (NATO-SGD) corpus - with Valerio Vignoli, Federico Salvati and Fabio Maina - is a text collection of over 3,000 speeches and statements designed for analyzing NATO's public discourse. It covers the period from 1996 to 2024 across six Secretaries General. The corpus can be accessed [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SDVMOJ).
+The NATO Secretary General Document (NATO-SGD) corpus - with Valerio Vignoli, Federico Salvati and Fabio Maina - is a text collection of over 3,000 statements designed for analyzing NATO's public discourse. It covers the period from 1996 to 2024 across six Secretaries General. The corpus can be accessed [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SDVMOJ).
 
 <div style="text-align: center;">
   <img src="/assets/img/Picture4.png" alt="NATO-SGD corpus" width="400">
