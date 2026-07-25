@@ -5,7 +5,7 @@ permalink: /
 subtitle: Postdoctoral Research Fellow, University of Potsdam
 
 profile:
-  align: right
+  align: left
   image: PHOTO-2026-05-22-10-45-36.jpg
   image_circular: false # crops the image to make it circular
   # address: >
@@ -19,8 +19,6 @@ profile:
 # social: true  # includes social icons at the bottom of the page
 ---
 
-This is my bio!!! your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I am a Postdoctoral Research Fellow in the Faculty of Economics and Social Sciences (Germany). I have received my Ph.D. in Political Science from the University of Bologna (Italy) in 2026.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses particularly on (1) International Organizations (particularly the United Nations and NATO), (2) the politics of multilateral negotiations and (3) conflict resolution through foreign interventions. I work with both quantitative (social network analysis, text analysis and survey experiments) and qualitative (interviews) methods.
