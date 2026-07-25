@@ -794,6 +794,10 @@ p, li, a {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+body {
+  font-size: 1.1rem;
+}
+
 /*******************************************************************************
  * Style overrides for distill blog posts.
  ******************************************************************************/
