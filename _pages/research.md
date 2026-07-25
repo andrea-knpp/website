@@ -1,9 +1,11 @@
 ---
 layout: page
-title: 
+title: Research
 permalink: /research/
+
 nav: true
 nav_order: 2
+hide_title: true
 ---
 
 ### Peer-reviewed journal articles
