@@ -1,17 +1,15 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 
-subtitle: 
+subtitle:
 
 profile:
   align: left
   image: profile_pic.jpg
   image_circular: false
 
-nav: true
-nav_order: 1
 social: false
 ---
 
