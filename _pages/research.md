@@ -1,16 +1,35 @@
 ---
-layout: research
+layout: page
 title: research
-permalink: /research
-subtitle: 
-
+permalink: /research/
+nav: true
+nav_order: 2
 ---
-#Research
 
-##Peer reviewed articles
+# Research
 
-##Book chapters
+My research focuses on:
 
-##Policy work
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Large Language Models
 
-##Work in progress
+## Current Projects
+
+### Project 1
+A brief description of your first research project.
+
+### Project 2
+A brief description of your second research project.
+
+## Research Interests
+
+- Explainable AI
+- Computer Vision
+- Natural Language Processing
+- Reinforcement Learning
+
+## Publications
+
+See my Publications page for a complete list of papers.
