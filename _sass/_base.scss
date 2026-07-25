@@ -859,3 +859,12 @@ pre {
     opacity: 1;
   }
 }
+
+body,
+h1, h2, h3, h4, h5, h6,
+.post-title,
+.navbar-brand,
+.navbar-nav,
+p, li, a {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
