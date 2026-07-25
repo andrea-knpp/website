@@ -25,8 +25,6 @@ resolutions, 1990-2023”. *Journal of Peace Research*, 62(6), 2136-2147. [https
 
 - Knapp, A. (2024). “Speaking of civilians: Automated text analysis of the United Nations’ framing of complex humanitarian emergencies”. *International Interactions*, 50(2), 300-331. [https://doi.org/10.1080/03050629.2024.2318559](https://doi.org/10.1080/03050629.2024.2318559)
 
-[]()
-
 ## Book chapters
 
 - Knapp, A. & M. Sguazzini (2025). “Una crisi senza risoluzione: La Siria nell’agenda del Consiglio di Sicurezza delle Nazioni Unite” in *La guerra civile siriana: Dall’insurrezione alla rivoluzione (2011-2024)* (eds. E. Corradi and G. Cama), Carocci.
