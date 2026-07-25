@@ -10,7 +10,7 @@ profile:
   image: profile_pic.jpg
   image_circular: false
 
-social: false
+social: true
 ---
 
 Welcome! I am a Postdoctoral Research Fellow at the Faculty of Economics and Social Sciences of the University of Potsdam. I earned my Ph.D. in Political Science from the University of Bologna in 2026.
