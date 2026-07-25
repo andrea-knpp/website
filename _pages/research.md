@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 nav: true
 nav_order: 2
-
+show_title: false
 ---
 
 ### Peer-reviewed journal articles
