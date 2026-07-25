@@ -1,10 +1,8 @@
 ---
-layout: redirect
+layout: page
 permalink: /cv/
-
+title: CV
 nav: true
 nav_order: 3
-title: CV
-
-redirect_to: /assets/pdf/Knapp_CV_July2026.pdf
+redirect: /assets/pdf/Knapp_CV_July2026.pdf
 ---
