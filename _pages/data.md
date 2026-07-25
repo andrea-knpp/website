@@ -20,12 +20,14 @@ The United Nations Security Council Resolution Authors (UNSCRA) dataset provides
 <div style="text-align: center;">
   <img src="/assets/img/Picture2.png" alt="UNSCRA dataset" width="400">
 </div>
+
 <br>
+
 <div style="text-align: center;">
   <img src="/assets/img/Picture3.png" alt="UNSCRA dataset" width="400">
 </div>
 
-<br>
+<br> <br>
 
 ### NATO-SGD corpus
 
@@ -34,11 +36,15 @@ The NATO Secretary General Document (NATO-SGD) corpus - published with Valerio V
 <div style="text-align: center;">
   <img src="/assets/img/Picture4.png" alt="NATO-SGD corpus" width="400">
 </div>
+
 <br>
+
 <div style="text-align: center;">
   <img src="/assets/img/Picture5.png" alt="NATO-SGD corpus" width="400">
 </div>
+
 <br>
+
 <div style="text-align: center;">
   <img src="/assets/img/Picture6.png" alt="NATO-SGD corpus" width="400">
 </div>
