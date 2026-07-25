@@ -1,9 +1,6 @@
----
 layout: about
 title: About
 permalink: /
-
-subtitle: >
 
 profile:
   align: left
@@ -13,7 +10,6 @@ profile:
 nav: true
 nav_order: 1
 
-social: true
 ---
 
 Welcome! I am a Postdoctoral Research Fellow at the Faculty of Economics and Social Sciences at the University of Potsdam. I received my Ph.D. in Political Science from the University of Bologna in 2026.
