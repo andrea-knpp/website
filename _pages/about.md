@@ -19,6 +19,6 @@ profile:
 # social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the Faculty of Economics and Social Sciences (Germany). I have received my Ph.D. in Political Science from the University of Bologna (Italy) in 2026.
+Welcome! I am a Postdoctoral Research Fellow at the Faculty of Economics and Social Sciences at the University of Potsdam (Germany). I received my Ph.D. in Political Science from the University of Bologna (Italy) in 2026.
 
-My research focuses particularly on (1) International Organizations (particularly the United Nations and NATO), (2) the politics of multilateral negotiations and (3) conflict resolution through foreign interventions. I work with both quantitative (social network analysis, text analysis and survey experiments) and qualitative (interviews) methods.
+My research broadly focuses on International Organizations (particularly the United Nations and NATO), the politics on multilateral negotiations and conflict resolution through foreign interventions. I work with both quantitative (social network analysis, text analysis and survey experiments) and qualitative (interviews) methods.
