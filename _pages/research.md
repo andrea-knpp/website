@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 nav: true
 nav_order: 2
@@ -8,28 +8,23 @@ nav_order: 2
 
 # Research
 
-My research focuses on:
+## Peer-reviewed Publications
 
-- Machine Learning
-- Artificial Intelligence
-- Data Science
-- Large Language Models
+- [Article Title 1](https://doi.org/...)
+- [Article Title 2](https://doi.org/...)
+- [Article Title 3](https://...)
 
-## Current Projects
+## Book Chapters
 
-### Project 1
-A brief description of your first research project.
+- [Chapter Title 1](https://...)
+- [Chapter Title 2](https://...)
 
-### Project 2
-A brief description of your second research project.
+## Policy Reports
 
-## Research Interests
+- [Policy Report 1](https://...)
+- [Policy Report 2](https://...)
 
-- Explainable AI
-- Computer Vision
-- Natural Language Processing
-- Reinforcement Learning
+## Working Papers
 
-## Publications
-
-See my Publications page for a complete list of papers.
+- [Working Paper 1](https://...)
+- [Working Paper 2](https://...)
