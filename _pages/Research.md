@@ -1,12 +1,10 @@
 ----
 layout: page
-title: research
+title: Research
 permalink: /research
 nav: true
 nav_order: 2
 ---
-
-# Research
 
 ## Peer-reviewed journal articles
 
