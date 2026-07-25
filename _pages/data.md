@@ -14,19 +14,16 @@ The United Nations Security Council Resolution Authors (UNSCRA) dataset provides
 <div style="text-align: center;">
   <img src="/assets/img/Picture1.png" alt="UNSCRA dataset" width="400">
 </div>
-
 <br>
 
 <div style="text-align: center;">
   <img src="/assets/img/Picture2.png" alt="UNSCRA dataset" width="400">
 </div>
-
 <br>
 
 <div style="text-align: center;">
   <img src="/assets/img/Picture3.png" alt="UNSCRA dataset" width="400">
 </div>
-
 <br> <br>
 
 ### NATO-SGD corpus
