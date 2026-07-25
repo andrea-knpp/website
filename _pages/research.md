@@ -25,7 +25,6 @@ resolutions, 1990-2023”. *Journal of Peace Research*, 62(6), 2136-2147. [https
 - Knapp, A. (2024). “Protection trinity: Assessing the three-tier framework in United Nations resolutions”. *International Peacekeeping*, 30(4), 415-441. [https://doi.org/10.1080/13533312.2024.2333740](https://doi.org/10.1080/13533312.2024.2333740)
 
 - Knapp, A. (2024). “Speaking of civilians: Automated text analysis of the United Nations’ framing of complex humanitarian emergencies”. *International Interactions*, 50(2), 300-331. [https://doi.org/10.1080/03050629.2024.2318559](https://doi.org/10.1080/03050629.2024.2318559)
-
 <br><br>
 
 ### Book chapters
