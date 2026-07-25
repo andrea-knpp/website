@@ -298,11 +298,13 @@ blockquote {
 
 // Social (bottom)
 
+// Social (bottom)
+
 .social {
-  text-align: center;
+  text-align: left;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.6rem;
 
     a {
       i::before {
@@ -322,7 +324,6 @@ blockquote {
     font-size: 0.8rem;
   }
 }
-
 
 // Footer
 footer.fixed-bottom {
