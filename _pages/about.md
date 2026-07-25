@@ -2,7 +2,7 @@
 layout: About
 title: About
 permalink: /
-subtitle: Postdoctoral Research Fellow, University of Potsdam
+subtitle: 
 
 profile:
   align: left
