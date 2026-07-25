@@ -8,7 +8,7 @@ show_title: false
 ---
 
 ### Peer-reviewed journal articles
-
+<br>
 - Knapp, A. (2026). “Unleashing the elected members: Why states do (not) draft resolutions at the United Nations Security Council”. *Journal of Economic Policy Reform*. [https://doi.org/10.1080/17487870.2026.2671711](https://doi.org/10.1080/17487870.2026.2671711)
 
 - Knapp, A. (2026). “Speech is silver, resolutions are gold: State influence on UNSC resolutions (1990-2019)?”. *Conflict Management and Peace Science*. [https://doi.org/10.1177/07388942261417494](https://doi.org/10.1177/07388942261417494)
@@ -28,14 +28,14 @@ resolutions, 1990-2023”. *Journal of Peace Research*, 62(6), 2136-2147. [https
 <br><br>
 
 ### Book chapters
-
+<br>
 - Knapp, A. & M. Sguazzini (2025). “Una crisi senza risoluzione: La Siria nell’agenda del Consiglio di Sicurezza delle Nazioni Unite” in *La guerra civile siriana: Dall’insurrezione alla rivoluzione (2011-2024)* (eds. E. Corradi and G. Cama), Carocci.
 
 - Knapp, A. & J. Fritzler (2025). “Soft contestation of the Responsibility to Protect? Assessing Canada and Sweden’s norm diplomacy” in *Norms in Prism. The Evolution of Norms and Norm Clusters in Contemporary Global Politics* (eds. C. Ducci, F. Lucenti, C. Wunderlich and J. Lantis), Springer.
 <br><br>
 
 ### Public engagement
-
+<br>
 - 2026: “A Stability Policing paradigm for NATO: Policing, the forgotten tool against hybrid/irregular warfare maneuvers”. *NATO SP CoE*. [https://www.nspcoe.org/wp-content/uploads/2026/01/03-final-version-14.01.26.pdf](https://www.nspcoe.org/wp-content/uploads/2026/01/03-final-version-14.01.26.pdf)
 
 - 2025: “On the possibilities for Security Council reform”. *Välismääraja Podcast*. [https://kuku.pleier.ee/podcast/valismaaraja/185189](https://kuku.pleier.ee/podcast/valismaaraja/185189) (translated to Estonian)
@@ -48,7 +48,7 @@ civilians”. *E-IR*. [https://www.e-ir.info/2023/03](https://www.e-ir.info/2023
 <br><br>
 
 ### Work in progress
-
+<br>
 - Carrara, P., A. Knapp, F.N. Moro & L. Pinto. “The politics of banditry: Political change and criminal violence in post-unification Italy (1861-1865)” (invited to R&R).
 
 - Agostinis, G. & A. Knapp. “Democratic density, institutional design and interstate shaming: International Organizations’ response to Russia’s invasion of Ukraine” (invited to R&R).
