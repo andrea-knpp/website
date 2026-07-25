@@ -1,6 +1,6 @@
 ---
-layout: About
-title: About
+layout: about
+title: about
 permalink: /
 subtitle: Postdoctoral Research Fellow, University of Potsdam
 
