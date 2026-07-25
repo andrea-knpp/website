@@ -7,8 +7,7 @@ nav_order: 2
 show_title: false
 ---
 
-### Peer-reviewed journal articles
-<br>
+### Peer-reviewed journal articles <br>
 
 - Knapp, A. (2026). “Unleashing the elected members: Why states do (not) draft resolutions at the United Nations Security Council”. *Journal of Economic Policy Reform*. [https://doi.org/10.1080/17487870.2026.2671711](https://doi.org/10.1080/17487870.2026.2671711)
 
