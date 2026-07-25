@@ -1,22 +1,19 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
-subtitle: 
+
+subtitle: >
 
 profile:
   align: left
   image: profile_pic.jpg
-  image_circular: false # crops the image to make it circular
-  # address: >
-   # <p>555 your office number</p>
-   # <p>123 your address street</p>
-   # <p>Your City, State 12345</p>
+  image_circular: false
 
-# news: true  # includes a list of news items
-# latest_posts: true  # includes a list of the newest posts
-# selected_papers: true # includes a list of papers marked as "selected={true}"
-# social: true  # includes social icons at the bottom of the page
+nav: true
+nav_order: 1
+
+social: true
 ---
 
 Welcome! I am a Postdoctoral Research Fellow at the Faculty of Economics and Social Sciences at the University of Potsdam. I received my Ph.D. in Political Science from the University of Bologna in 2026.
