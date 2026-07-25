@@ -12,7 +12,6 @@ profile:
 
 nav: true
 nav_order: 1
-
 social: false
 ---
 
