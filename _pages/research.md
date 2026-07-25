@@ -26,7 +26,7 @@ resolutions, 1990-2023”. *Journal of Peace Research*, 62(6), 2136-2147. [https
 
 - Knapp, A. (2024). “Speaking of civilians: Automated text analysis of the United Nations’ framing of complex humanitarian emergencies”. *International Interactions*, 50(2), 300-331. [https://doi.org/10.1080/03050629.2024.2318559](https://doi.org/10.1080/03050629.2024.2318559)
 
-
+<br><br>
 
 ### Book chapters
 
@@ -34,7 +34,7 @@ resolutions, 1990-2023”. *Journal of Peace Research*, 62(6), 2136-2147. [https
 
 - Knapp, A. & J. Fritzler (2025). “Soft contestation of the Responsibility to Protect? Assessing Canada and Sweden’s norm diplomacy” in *Norms in Prism. The Evolution of Norms and Norm Clusters in Contemporary Global Politics* (eds. C. Ducci, F. Lucenti, C. Wunderlich and J. Lantis), Springer.
 
-
+<br><br>
 
 ### Public engagement
 
@@ -48,7 +48,7 @@ council/publications/](https://committees.parliament.uk/work/9001/the-uk-at-the-
 - 2023: “Definitions matter: Navigating gray areas in the United Nations’ protection of
 civilians”. *E-IR*. [https://www.e-ir.info/2023/03](https://www.e-ir.info/2023/03)
 
-
+<br><br>
 
 ### Work in progress
 
