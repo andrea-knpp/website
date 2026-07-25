@@ -23,4 +23,4 @@ Welcome! I am a Postdoctoral Research Fellow at the Faculty of Economics and Soc
 
 My research interest focus on International Organizations (particularly the United Nations and NATO), the politics on multilateral diplomacy and conflict resolution through foreign interventions. I mainly work with quantitative methods like social network analysis, text-as-data and survey esperiments, but I also have experience with expert interviews.
 
-I worked in the "Enablement and Resilience Section - Defence Policy and Planning Unit" (ERS-DPP) at NATO headquarters in Brussels in 2023. I was also a research consultant for the NATO Stability Policing Center of Excellence (SP CoE) between 2024 and 2025. I held visiting researcher positions at Uppsala University and Columbia University.
+I worked at the "Enablement and Resilience Section - Defence Policy and Planning Unit" (ERS-DPP) at NATO headquarters in Brussels in 2023. I was also a research consultant for the NATO Stability Policing Center of Excellence (SP CoE) between 2024 and 2025. I held visiting researcher positions at Uppsala University and Columbia University.
