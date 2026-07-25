@@ -1,11 +1,11 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: Postdoctoral Research Fellow, University of Potsdam
 
 profile:
-  align: right
+  align: left
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   # address: >
