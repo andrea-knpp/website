@@ -33,16 +33,13 @@ The NATO Secretary General Document (NATO-SGD) corpus - published with Valerio V
 <div style="text-align: center;">
   <img src="/assets/img/Picture4.png" alt="NATO-SGD corpus" width="400">
 </div>
-
 <br>
 
 <div style="text-align: center;">
   <img src="/assets/img/Picture5.png" alt="NATO-SGD corpus" width="400">
 </div>
-
 <br>
 
 <div style="text-align: center;">
   <img src="/assets/img/Picture6.png" alt="NATO-SGD corpus" width="400">
 </div>
-
