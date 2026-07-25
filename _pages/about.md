@@ -6,7 +6,7 @@ subtitle: Postdoctoral Research Fellow, University of Potsdam
 
 profile:
   align: left
-  image: PHOTO-2026-05-22-10-45-36.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   # address: >
    # <p>555 your office number</p>
