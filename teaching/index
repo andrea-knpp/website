@@ -2,24 +2,23 @@
 <html lang="en">
 
   <!-- Head -->
-  <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    <!-- Metadata, OpenGraph and Schema.org -->
+  <head>    <!-- Metadata, OpenGraph and Schema.org -->
     
 
     <!-- Standard metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>code | Andrea  Knapp</title>
-    <meta name="author" content="Andrea  Knapp">
+    <title>Teaching | Andrea  Knapp</title>
+    <meta name="author" content="Andrea  Knapp" />
     <meta name="description" content="Andrea Knapp — Postdoctoral Research Fellow at the University of Potsdam. Research on International Organizations, multilateral diplomacy and conflict resolution.
-">
-    <meta name="keywords" content="international organizations, UN Security Council, NATO, multilateral diplomacy, political science">
+" />
+    <meta name="keywords" content="international organizations, UN Security Council, NATO, multilateral diplomacy, political science" />
 
 
     <!-- Bootstrap & MDB -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous" />
 
     <!-- Fonts & Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
@@ -27,18 +26,18 @@
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
 
     <!-- Code Syntax Highlighting -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light" />
 
     <!-- Styles -->
     
-    <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%F0%9F%93%9A&lt;/text&gt;&lt;/svg&gt;">
+    <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📚</text></svg>">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://andreaknapp.eu/blog/tag/code/">
+    <link rel="canonical" href="https://andreaknapp.eu/teaching/">
     
     <!-- Dark Mode -->
     
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark" />
 
     <script src="/assets/js/theme.js"></script>
     <script src="/assets/js/dark_mode.js"></script>
@@ -55,7 +54,7 @@
       <!-- Nav Bar -->
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
         <div class="container">
-          <a class="navbar-brand title font-weight-lighter" href="/"><span class="font-weight-bold">Andrea </span>Knapp</a>
+          <a class="navbar-brand title font-weight-lighter" href="/"><span class="font-weight-bold">Andrea&nbsp;</span>Knapp</a>
           <!-- Navbar Toggle -->
           <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="sr-only">Toggle navigation</span>
@@ -80,8 +79,8 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/data/">Data</a>
               </li>
-              <li class="nav-item ">
-                <a class="nav-link" href="/teaching/">Teaching</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/teaching/">Teaching<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item ">
                 <a class="nav-link" href="/cv/">CV</a>
@@ -110,36 +109,87 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- page.html -->
+        <div class="post">
+          <header class="post-header">
+            
+            <p class="post-description"></p>
+          </header>
+          <article>
+            ### Peer-reviewed journal articles <br>
 
-  <header class="post-header">
-    <h1 class="post-title"> <i class="fas fa-hashtag fa-sm"></i> code </h1>
-    <p class="post-description"> an archive of posts with this tag </p>
-  </header>
+- Knapp, A. (2026). “Unleashing the elected members: Why states do (not) draft resolutions at the United Nations Security Council”. *Journal of Economic Policy Reform*. [https://doi.org/10.1080/17487870.2026.2671711](https://doi.org/10.1080/17487870.2026.2671711)
 
-  <article>
-    <div class="table-responsive">
-      <table class="table table-sm table-borderless">
-        
-        <tr>
-          <th scope="row">Jul 15, 2015</th>
-          <td>
-              <a class="post-link" href="/blog/2015/code/">a post with code</a>
-          </td>
-        </tr>
-      
-      </table>
-    </div>
-  </article>
+- Knapp, A. (2026). “Speech is silver, resolutions are gold: State influence on UNSC resolutions (1990-2019)?”. *Conflict Management and Peace Science*. [https://doi.org/10.1177/07388942261417494](https://doi.org/10.1177/07388942261417494)
 
-</div>
+- Knapp, A., V. Vignoli, F. Salvati & F. Maina (2026). “The Alliance is speaking: Introducing the NATO Secretary General Document (NATO-SGD) corpus”. *International Interactions*. [https://doi.org/10.1080/03050629.2026.2621400](https://doi.org/10.1080/03050629.2026.2621400)
+
+- Costantini, I., M. Dian, A. Knapp & F.N. Moro (2026). “(Il)Liberal peace: P5 approaches to conflict management and resolution”. *British Journal of Politics and International Relations*. [https://doi.org/10.1177/13691481251407497](https://doi.org/10.1177/13691481251407497)
+  
+- Knapp, A. (2025). “Twin diplomacy: Strategic co-authorship selection and resolution outcomes at the UNSC”. *Review of International Organizations*. [https://doi.org/10.1007/s11558-025-09610-6](https://doi.org/10.1007/s11558-025-09610-6)
+
+- Knapp, A. (2025). “Introducing the UNSCRA dataset: Authoring Security Council
+resolutions, 1990-2023”. *Journal of Peace Research*, 62(6), 2136-2147. [https://doi.org/10.1177/00223433251315634](https://doi.org/10.1177/00223433251315634)
+
+- Knapp, A. (2024). “Protection trinity: Assessing the three-tier framework in United Nations resolutions”. *International Peacekeeping*, 30(4), 415-441. [https://doi.org/10.1080/13533312.2024.2333740](https://doi.org/10.1080/13533312.2024.2333740)
+
+- Knapp, A. (2024). “Speaking of civilians: Automated text analysis of the United Nations’ framing of complex humanitarian emergencies”. *International Interactions*, 50(2), 300-331. [https://doi.org/10.1080/03050629.2024.2318559](https://doi.org/10.1080/03050629.2024.2318559)
+<br><br>
+
+### Book chapters <br>
+
+- Knapp, A. & M. Sguazzini (2025). “Una crisi senza risoluzione: La Siria nell’agenda del Consiglio di Sicurezza delle Nazioni Unite” in *La guerra civile siriana: Dall’insurrezione alla rivoluzione (2011-2024)* (eds. E. Corradi and G. Cama), Carocci.
+
+- Knapp, A. & J. Fritzler (2025). “Soft contestation of the Responsibility to Protect? Assessing Canada and Sweden’s norm diplomacy” in *Norms in Prism. The Evolution of Norms and Norm Clusters in Contemporary Global Politics* (eds. C. Ducci, F. Lucenti, C. Wunderlich and J. Lantis), Springer.
+<br><br>
+
+### Public engagement <br>
+
+- 2026: “A Stability Policing paradigm for NATO: Policing, the forgotten tool against hybrid/irregular warfare maneuvers”. *NATO SP CoE*. [https://www.nspcoe.org/wp-content/uploads/2026/01/03-final-version-14.01.26.pdf](https://www.nspcoe.org/wp-content/uploads/2026/01/03-final-version-14.01.26.pdf)
+
+- 2025: “On the possibilities for Security Council reform”. *Välismääraja Podcast*. [https://kuku.pleier.ee/podcast/valismaaraja/185189](https://kuku.pleier.ee/podcast/valismaaraja/185189) (translated to Estonian)
+
+- 2025: “The United Kingdom at the United Nations Security Council”. *British Parliament*. [https://committees.parliament.uk/work/9001/the-uk-at-the-united-nations-security-
+council/publications/](https://committees.parliament.uk/work/9001/the-uk-at-the-united-nations-security-council/publications/), [https://committees.parliament.uk/publications/49593/documents/264116/default/](https://committees.parliament.uk/publications/49593/documents/264116/default/)
+
+- 2023: “Definitions matter: Navigating gray areas in the United Nations’ protection of
+civilians”. *E-IR*. [https://www.e-ir.info/2023/03](https://www.e-ir.info/2023/03)
+<br><br>
+
+### Work in progress <br>
+
+- Carrara, P., A. Knapp, F.N. Moro & L. Pinto. “The politics of banditry: Political change and criminal violence in post-unification Italy (1861-1865)” (invited to R&R).
+
+- Agostinis, G. & A. Knapp. “Democratic density, institutional design and interstate shaming: International Organizations’ response to Russia’s invasion of Ukraine” (invited to R&R).
+
+- Knapp, A. “Home field gain: How COP organizers influence access to United Nations leadership” (under review).
+
+- Moschella, M., A. Knapp & D. Masciandaro. “The temporal dimension of policy diffusion: Timing, stickiness and symbolism in climate policy framing” (under review).
+
+- Salvati, S., F. Maina, V. Vignoli & A. Knapp. “Withering liberalism? Assessing changes in NATO’s liberal rhetoric through the Secretary General’s speeches” (under review).
+
+- Adhikari, B. & A. Knapp. “The illiberal turn: Democratic backsliding and foreign policy in UNGA speeches” (under review).
+
+- Knapp, A. “Power in rotation: Variation in UNSC presidential success” (under review).
+
+- Choi, H. E. & A. Knapp. “Mandate expansion and legitimacy of International Organizations: Survey experiment on NATO’s resilience domain” (working paper).
+
+- Agostinis, G., A. Knapp & P. Stohlman. “Speaking with one voice: When International Organizations bureaucracies and states diverge in shaming norm violators” (working paper).
+
+- Becker, J., A. Knapp & V. Vignoli. “Through Brussels, not Washington: NATO Secretary-General and the politics of burden-sharing” (working paper).
+
+- Choi, H. E., A. Knapp & T. Sommerer. “Borrowing legitimacy: Informal governance and illiberal capture at the UN Security Council” (working paper).
+
+
+          </article>
+        </div>
 
     </div>
 
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        © Copyright 2026 Andrea  Knapp. Last updated: August 02, 2026.
+        &copy; Copyright 2026 Andrea  Knapp. Last updated: August 02, 2026.
       </div>
     </footer>
 
